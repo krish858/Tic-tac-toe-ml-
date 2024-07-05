@@ -1,0 +1,6 @@
+export const image = "https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/pngwing.com.png?alt=media&token=e10401e6-e044-4db4-a41f-10c46127e69f"
+export const bot = 'https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/r2d2-removebg-preview.png?alt=media&token=bf1826ba-a062-4948-8a9a-3f1557dec72e'
+export const rock = 'https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/rock-200x187-removebg-preview.png?alt=media&token=eff96024-ee87-454c-ab04-baa64c50be15'
+export const rulesimage = "https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/rules.png?alt=media&token=bcd42008-5771-4228-8d81-012ae3c0710f"
+export const paper = 'https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/paper-200x187-removebg-preview.png?alt=media&token=ec11c0d0-6118-42fb-a20c-8cd31a1acbfa'
+export const scissor = 'https://firebasestorage.googleapis.com/v0/b/imagestorage-ab872.appspot.com/o/scissors-200x187-removebg-preview.png?alt=media&token=9daac249-8f0c-40fc-84bd-7e3c6166a411'
